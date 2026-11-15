@@ -68,10 +68,6 @@ with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">Ki
 
 ---
 
----
-
----
-
 ## Work in Progress
 
 **News Enrichment with AI**<br>
