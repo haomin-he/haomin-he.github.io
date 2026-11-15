@@ -32,4 +32,4 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 4. **Pricing for Product Awareness in Social Network: An Experimental Study**  
    *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
 
-### Selected Work in Progress
+## Selected Work in Progress
