@@ -17,7 +17,7 @@ redirect_from:
     
     /* 2. 右侧主内容区 */
     .archive, .page {
-      width: 80% !important;        /* 右侧内容的整体宽度 */
+      width: 77% !important;        /* 右侧内容的整体宽度 */
       margin-left: 10% !important;  /* 右侧内容距离屏幕最左侧的距离（决定向右推多远） */
       padding-left: 5px !important;/* 右侧内容内部的左边距 */
     }
