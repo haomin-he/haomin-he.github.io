@@ -14,21 +14,21 @@
     {% endif %}
   </div> -->
 
-  <div class="author__avatar" style="padding: 0; margin: 0 0 20px 0; background: transparent; border: none; box-shadow: none; width: 100%; max-width: 100%;">
+  <!-- <div class="author__avatar" style="padding: 0; margin: 0 0 20px 0; background: transparent; border: none; box-shadow: none; width: 100%; max-width: 100%;">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
     {% endif %}
-  </div>
-
-  <!-- <div class="author__avatar" style="padding: 0; margin: 0 0 20px 0; background: transparent; border: none; box-shadow: none; width: 100%; max-width: 100%;">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
-    {% endif %}
   </div> -->
+
+  <div class="author__avatar" style="padding: 0; margin: 0 0 20px 0; background: transparent; border: none; box-shadow: none; width: 100%; max-width: 100%;">
+    {% if author.avatar contains "://" %}
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 130%; max-width: none; margin-left: -15%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
+    {% else %}
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 130%; max-width: none; margin-left: -15%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
+    {% endif %}
+  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
