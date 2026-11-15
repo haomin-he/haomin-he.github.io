@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Haomin He"
+title: ""
+excerpt: "Haomin He"
 author_profile: true
 redirect_from:
   - /about/
