@@ -34,9 +34,8 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 ## Working Papers
 
 **Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
-with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> 
-<br>
-*Outstanding Paper Award of the 7th China Behavioral and Experimental Economics Forum*
+<span style="font-size: 0.9em;">with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a></span><br>
+<em style="font-size: 0.9em;">Outstanding Paper Award of the 7th China Behavioral and Experimental Economics Forum</em>
 
 <details>
   <summary>Abstract</summary>
@@ -46,9 +45,8 @@ with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener norefer
 </details>
 
 **Illusion on Causality: An Experimental Study**<br>
-with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a>
-<br>
-*Reject & Resubmit, Journal of Economic Behavior and Organization*
+<span style="font-size: 0.9em;">with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a></span><br>
+<em style="font-size: 0.9em;">Reject & Resubmit, Journal of Economic Behavior and Organization</em>
 
 <details>
   <summary>Abstract</summary>
@@ -58,7 +56,7 @@ with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">Ki
 </details>
 
 **Pricing for Product Awareness in Social Network: An Experimental Study**<br>
-with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a> 
+<span style="font-size: 0.9em;">with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a></span>
 
 <details>
   <summary>Abstract</summary>
@@ -72,16 +70,19 @@ with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">Ki
 ## Work in Progress
 
 **News Enrichment with AI**<br>
-with Yoonjeong Park and <a href="https://sites.google.com/site/martaserragarcia/" target="_blank" rel="noopener noreferrer">Marta Serra-Garcia</a>
+<span style="font-size: 0.9em;">with Yoonjeong Park and <a href="https://sites.google.com/site/martaserragarcia/" target="_blank" rel="noopener noreferrer">Marta Serra-Garcia</a></span>
+
 <br>
 
 **Learning from Peers and AI**<br>
-with <a href="https://sarthakjoshi.net/" target="_blank" rel="noopener noreferrer">Sarthak Joshi</a> and <a href="https://www.manshukhanna.com/" target="_blank" rel="noopener noreferrer">Manshu Khanna</a>
+<span style="font-size: 0.9em;">with <a href="https://sarthakjoshi.net/" target="_blank" rel="noopener noreferrer">Sarthak Joshi</a> and <a href="https://www.manshukhanna.com/" target="_blank" rel="noopener noreferrer">Manshu Khanna</a></span>
+
 <br>
 
 **Motivational Karmic Investment**<br>
-with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://sbus.hsu.edu.hk/biography/dr-li-king-king/" target="_blank" rel="noopener noreferrer">King King Li</a>
+<span style="font-size: 0.9em;">with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://sbus.hsu.edu.hk/biography/dr-li-king-king/" target="_blank" rel="noopener noreferrer">King King Li</a></span>
+
 <br>
 
 **Why Do Economists Adhere to the Practice of Alphabetical Author Ordering? Theory and Experimental Evidence**<br>
-with <a href="https://www.ln.edu.hk/econ/people/faculty-economics/professor-fan-cheng-ze-simon" target="_blank" rel="noopener noreferrer">Simon Fan</a>, <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a>, <a href="https://sites.google.com/site/econyupang/home?authuser=0" target="_blank" rel="noopener noreferrer">Yu Pang</a>, and <a href="https://kangrong.weebly.com/" target="_blank" rel="noopener noreferrer">Kang Rong</a>
+<span style="font-size: 0.9em;">with <a href="https://www.ln.edu.hk/econ/people/faculty-economics/professor-fan-cheng-ze-simon" target="_blank" rel="noopener noreferrer">Simon Fan</a>, <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a>, <a href="https://sites.google.com/site/econyupang/home?authuser=0" target="_blank" rel="noopener noreferrer">Yu Pang</a>, and <a href="https://kangrong.weebly.com/" target="_blank" rel="noopener noreferrer">Kang Rong</a></span>
