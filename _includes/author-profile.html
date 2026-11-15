@@ -26,7 +26,7 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 130%; max-width: none; margin-left: -15%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 110%; max-width: none; margin-left: -5%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 104%; max-width: none; margin-left: -2%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
     {% endif %}
   </div>
 
