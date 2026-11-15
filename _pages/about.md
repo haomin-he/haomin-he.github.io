@@ -1,5 +1,5 @@
 ---
-permalink: Homepage/
+permalink: /
 title: "Haomin He"
 excerpt: "Haomin He"
 author_profile: true
@@ -18,16 +18,39 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 ---
 
-## Working Papers
+---
 
-1. **Belief Bias, Source Preference, and Preference for Robo-Advisor**  
-   *with Paul H. Y. Cheung, King King Li* · [PDF](../assets/paper1.pdf)
+<h2 style="color: #1a5e9a; margin-bottom: 20px;">Working Papers</h2>
 
-2. **Illusion on Causality: An Experimental Study**  
-   *with King King Li* · [PDF](../assets/paper2.pdf)
-   *Reject & Resubmit, Journal of Economic Behavior and Organization
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; font-size: 1.2em;">
+    <a href="../assets/paper1.pdf" target="_blank" rel="noopener noreferrer" style="color: #1a5e9a; text-decoration: none;">Belief Bias, Source Preference, and Preference for Robo-Advisor</a>
+  </h3>
+  <div style="margin-bottom: 5px;">
+    with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  </div>
+</div>
 
-4. **Pricing for Product Awareness in Social Network: An Experimental Study**  
-   *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; font-size: 1.2em;">
+    <a href="../assets/paper2.pdf" target="_blank" rel="noopener noreferrer" style="color: #1a5e9a; text-decoration: none;">Illusion on Causality: An Experimental Study</a>
+  </h3>
+  <div style="margin-bottom: 5px;">
+    with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper2.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  </div>
+  <div>
+    <em>Reject & Resubmit, Journal of Economic Behavior and Organization</em>
+  </div>
+</div>
 
+<div style="margin-bottom: 25px;">
+  <h3 style="margin-bottom: 5px; font-size: 1.2em;">
+    <a href="../assets/paper3.pdf" target="_blank" rel="noopener noreferrer" style="color: #1a5e9a; text-decoration: none;">Pricing for Product Awareness in Social Network: An Experimental Study</a>
+  </h3>
+  <div style="margin-bottom: 5px;">
+    with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a> · <a href="../assets/paper3.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  </div>
+</div>
+
+---
 ## Selected Work in Progress
