@@ -16,19 +16,6 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 ---
 
-<style>
-  /* 专门控制摘要折叠框的样式 */
-  details { margin-top: 5px; margin-bottom: 25px; }
-  details summary { 
-    cursor: pointer; 
-    color: #1a5e9a; 
-    font-size: 0.95em; 
-    font-weight: 500;
-    outline: none;
-  }
-  details[open] summary { margin-bottom: 10px; }
-</style>
-
 ## Working Papers
 
 **Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
