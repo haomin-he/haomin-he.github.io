@@ -24,7 +24,7 @@ redirect_from:
 
     /* 3. 右侧大标题 */
     .page__title, .archive .page__title, h1.page__title {
-      margin-top: 10px !important;  /* 标题距离顶部的距离 */
+      margin-top: 0px !important;  /* 标题距离顶部的距离 */
     }
   }
 </style>
