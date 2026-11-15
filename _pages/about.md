@@ -40,7 +40,8 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 ## Working Papers
 
 **Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
-<span style="font-size: 0.9em;">with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a></span><br> <a href="/assets/Robo_Advisor.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-left: 10px; background-color: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; border-radius: 4px; font-size: 0.75em; font-weight: 600; text-decoration: none; vertical-align: middle; transition: all 0.2s;"><i class="fas fa-file-pdf" style="color: #ef4444; margin-right: 4px;"></i> PDF</a><br>
+<a href="/assets/Robo_Advisor.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-left: 10px; background-color: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; border-radius: 4px; font-size: 0.75em; font-weight: 600; text-decoration: none; vertical-align: middle; transition: all 0.2s;"><i class="fas fa-file-pdf" style="color: #ef4444; margin-right: 4px;"></i> PDF</a><br>
+<span style="font-size: 0.9em;">with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a></span><br>
 <em style="font-size: 0.9em;">Outstanding Paper Award of the 7th China Behavioral and Experimental Economics Forum</em>
 
 <details>
