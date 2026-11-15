@@ -20,11 +20,13 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 ## Working Papers
 
-1. **Title of Working Paper 1**  
-   *with Coauthor A, Coauthor B* · Draft coming soon
+1. **Belief Bias, Source Preference, and Preference for Robo-Advisor**  
+   *with Paul H. Y. Cheung, King King Li* · [PDF](../assets/paper1.pdf)
 
-2. **Title of Working Paper 2**  
-   *with Coauthor C* · [PDF](../assets/paper2.pdf) · [Slides](../assets/paper2_slides.pdf)
+2. **Illusion on Causality: An Experimental Study**  
+   *with King King Li* · [PDF](../assets/paper2.pdf)
 
-3. **Title of Working Paper 3**  
-   *Job Market Paper* · [PDF](../assets/paper3.pdf)
+3. **Pricing for Product Awareness in Social Network: An Experimental Study**  
+   *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
+
+## Selected Work in Progress
