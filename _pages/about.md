@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,8 +13,6 @@ redirect_from:
     padding-top: 20px !important;
   }
 </style>
-
-## About Me
 
 I am a first-year Ph.D. student in Economics and Strategy at the <a href="https://rady.ucsd.edu/" target="_blank" rel="noopener noreferrer">Rady School of Management</a>, UC San Diego.
 
