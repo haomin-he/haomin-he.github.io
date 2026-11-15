@@ -9,8 +9,16 @@ redirect_from:
 ---
 
 <style>
-  .archive {
-    padding-left: 40px !important;
+  @media screen and (min-width: 1024px) {
+    .sidebar {
+      width: 28% !important; 
+    }
+    
+    .archive, .page {
+      width: 68% !important;      /* 正文宽度稍微缩小，防止溢出 */
+      margin-left: 30% !important; /* 整体向右推，避开左边的大图 */
+      padding-left: 10px !important; /* 增加一点内部间距，看起来更舒服 */
+    }
   }
 </style>
 
