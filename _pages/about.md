@@ -12,7 +12,7 @@ redirect_from:
   @media screen and (min-width: 1024px) {
     /* 1. 左侧边栏宽度 */
     .sidebar {
-      width: 28% !important; 
+      width: 25% !important; 
     }
     
     /* 2. 右侧主内容区 */
