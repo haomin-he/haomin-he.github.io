@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Haomin He"
-excerpt: "Haomin He"
 author_profile: true
 redirect_from:
   - /about/
@@ -20,16 +19,12 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 ## Working Papers
 
-**Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
+**Belief Bias, Source Preference, and Preference for Robo-Advisor**
 with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
-<br>
-
-**Illusion on Causality: An Experimental Study**<br>
+**Illusion on Causality: An Experimental Study**
 with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper2.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
 *Reject & Resubmit, Journal of Economic Behavior and Organization*
-
-<br>
 
 **Pricing for Product Awareness in Social Network: An Experimental Study**<br>
 with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a> · <a href="../assets/paper3.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
