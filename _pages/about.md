@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Haomin He"
+title: "Haomin He (何昊旻)"
 author_profile: true
 redirect_from:
   - /about/
