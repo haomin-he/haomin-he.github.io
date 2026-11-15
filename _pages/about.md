@@ -15,9 +15,9 @@ redirect_from:
     }
     
     .archive, .page {
-      width: 68% !important;      /* 正文宽度稍微缩小，防止溢出 */
-      margin-left: 30% !important; /* 整体向右推，避开左边的大图 */
-      padding-left: 10px !important; /* 增加一点内部间距，看起来更舒服 */
+      width: 68% !important;      
+      margin-left: 20% !important; 
+      padding-left: 10px !important; 
     }
   }
 </style>
