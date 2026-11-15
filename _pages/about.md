@@ -35,7 +35,7 @@ with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">Ki
 
 ---
 
-## Selected Work in Progress
+## Work in Progress
 
 **News Enrichment with AI**<br>
 with Yoonjeong Park and <a href="https://sites.google.com/site/martaserragarcia/" target="_blank" rel="noopener noreferrer">Marta Serra-Garcia</a>
