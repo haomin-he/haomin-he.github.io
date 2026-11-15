@@ -17,8 +17,9 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 2. **Illusion on Causality: An Experimental Study**  
    *with King King Li* · [PDF](../assets/paper2.pdf)
+   *Reject & Resubmit, Journal of Economic Behavior and Organization
 
-3. **Pricing for Product Awareness in Social Network: An Experimental Study**  
+4. **Pricing for Product Awareness in Social Network: An Experimental Study**  
    *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
 
 ### Selected Work in Progress
