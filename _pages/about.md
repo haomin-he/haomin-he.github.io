@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About Me"
+title: "Haomin He"
 author_profile: true
 redirect_from:
   - /about/
