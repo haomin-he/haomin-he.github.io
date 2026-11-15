@@ -14,13 +14,13 @@
     {% endif %}
   </div> -->
 
-  <div class="author__avatar">
+  <div class="author__avatar" style="padding: 0; margin: 0 0 20px 0; background: transparent; border: none; box-shadow: none; width: 100%; max-width: 100%;">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="border-radius: 0; width: 100%; height: auto;" />
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" fetchpriority="high" style="border-radius: 0; width: 100%; height: auto;" />
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" fetchpriority="high" style="width: 100%; height: auto; border-radius: 0; border: none; box-shadow: none; display: block;" />
     {% endif %}
-  </div> 
+  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
