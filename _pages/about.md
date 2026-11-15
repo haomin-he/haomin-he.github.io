@@ -32,6 +32,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 **Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
 with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> 
+<br>
 *Outstanding Paper Award of the 7th China Behavioral and Experimental Economics Forum*
 
 <details>
