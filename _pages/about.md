@@ -93,7 +93,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
     We experimentally investigate the impact of social networks on pricing competition by comparing outcomes under various levels of network connectivity against a no-network benchmark. In the experiment, some consumers are aware of the product and some are not. When there is social network, consumers who are not aware of the product can learn about it from their friends who purchased it earlier. In such case, firms may be motivated to set lower price to induce consumers to purchase so that their unaware friends can be aware of the product in later stage and potentially purchase the product. The experimental result supports this hypothesis. The results suggest that price in the social network was lower than the price when there was no social network, and for a given social network, price increases in the proportion of consumers initially aware of the product. There was a non-monotone U-shaped relationship between the size of social network and price. We also report several interesting deviations from the theory.
   </div>
 </details>
-<div style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 0; margin-bottom: 25px;">Presentations (selected): 2nd East Asia Experimental and Behavioral Economics Workshop*, Shanghai Jiaotong University*.</div>
+<div style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 0; margin-bottom: 25px;">Presentations (selected): 2nd East Asia Experimental and Behavioral Economics Workshop*, Shanghai Jiao Tong University*.</div>
 
 <span style="font-size: 0.85em; color: #777;">* denotes presentation by co-author</span>
 
