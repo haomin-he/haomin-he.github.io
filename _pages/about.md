@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Haomin He"
 author_profile: true
