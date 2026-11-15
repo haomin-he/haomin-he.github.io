@@ -11,8 +11,6 @@ I am a first-year Ph.D. student in Economics and Strategy at the <a href="https:
 
 My research interests are in behavioral and experimental economics, with recent topics including choice under risk and uncertainty, ethics and morality, and misinformation.
 
-Email: <a href="mailto:hah076@ucsd.edu">hah076@ucsd.edu</a>
-
 Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 ---
