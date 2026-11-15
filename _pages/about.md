@@ -9,6 +9,12 @@ redirect_from:
 ---
 
 <style>
+  .archive {
+    padding-left: 40px !important;
+  }
+</style>
+
+<style>
   #main {
     padding-top: 20px !important;
   }
