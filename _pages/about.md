@@ -31,4 +31,3 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
    *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
 
 ## Selected Work in Progress
-我想把about me那里改为附图所示的排版
