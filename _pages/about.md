@@ -35,6 +35,8 @@ redirect_from:
   }
 </style>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=Haomin+He)](https://git.io/typing-svg)
+
 I am a first-year Ph.D. student in Economics and Strategy at the <a href="https://rady.ucsd.edu/" target="_blank" rel="noopener noreferrer">Rady School of Management</a>, UC San Diego.
 
 My research interests are in behavioral and experimental economics, with recent topics including choice under risk and uncertainty, ethics and morality, and misinformation.
