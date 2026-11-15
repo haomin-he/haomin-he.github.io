@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: Homepage/
 title: "Haomin He"
 excerpt: "Haomin He"
 author_profile: true
