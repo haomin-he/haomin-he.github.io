@@ -74,7 +74,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 </details>
 <div style="font-size: 0.9em; color: #555; font-style: italic; margin-top: 0; margin-bottom: 25px;">Presentations (selected): 2nd East Asia Experimental and Behavioral Economics Workshop*, Shanghai Jiaotong University*.</div>
 
-<span style="font-size: 0.85em; color: #777;">* denotes presentation by coauthor</span>
+<span style="font-size: 0.85em; color: #777;">* denotes presentation by co-author</span>
 
 ---
 
