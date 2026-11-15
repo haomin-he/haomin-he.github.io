@@ -18,6 +18,9 @@ redirect_from:
       width: 68% !important;      
       margin-left: 20% !important; 
       padding-left: 10px !important; 
+    
+    .page__title, .archive .page__title, h1.page__title {
+      margin-top: 15px !important;
     }
   }
 </style>
