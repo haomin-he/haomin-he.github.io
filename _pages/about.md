@@ -17,7 +17,10 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 ---
 
 <style>
-  details { margin-top: 5px; margin-bottom: 25px; }
+  details { 
+    margin-top: -15px;
+    margin-bottom: 25px; 
+  }
   details summary { 
     cursor: pointer; 
     color: #1a5e9a; 
