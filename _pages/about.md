@@ -47,6 +47,7 @@ with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener norefer
 
 **Illusion on Causality: An Experimental Study**<br>
 with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a>
+<br>
 *Reject & Resubmit, Journal of Economic Behavior and Organization*
 
 <details>
