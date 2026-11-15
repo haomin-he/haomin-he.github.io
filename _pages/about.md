@@ -1,12 +1,4 @@
----
-permalink: /
-title: "About me"
-except: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+## About
 
 I am a first-year Ph.D. student in Economics and Strategy at the <a href="https://rady.ucsd.edu/" target="_blank" rel="noopener noreferrer">Rady School of Management</a>, UC San Diego.
 
@@ -29,4 +21,4 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 3. **Pricing for Product Awareness in Social Network: An Experimental Study**  
    *with King King Li, Yujing Xu* · [PDF](../assets/paper3.pdf)
 
-## Selected Work in Progress
+### Selected Work in Progress
