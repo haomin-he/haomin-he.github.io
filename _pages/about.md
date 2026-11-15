@@ -71,17 +71,14 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 **News Enrichment with AI**<br>
 <span style="font-size: 0.9em;">with Yoonjeong Park and <a href="https://sites.google.com/site/martaserragarcia/" target="_blank" rel="noopener noreferrer">Marta Serra-Garcia</a></span>
-
 <br>
 
 **Learning from Peers and AI**<br>
 <span style="font-size: 0.9em;">with <a href="https://sarthakjoshi.net/" target="_blank" rel="noopener noreferrer">Sarthak Joshi</a> and <a href="https://www.manshukhanna.com/" target="_blank" rel="noopener noreferrer">Manshu Khanna</a></span>
-
 <br>
 
 **Motivational Karmic Investment**<br>
 <span style="font-size: 0.9em;">with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://sbus.hsu.edu.hk/biography/dr-li-king-king/" target="_blank" rel="noopener noreferrer">King King Li</a></span>
-
 <br>
 
 **Why Do Economists Adhere to the Practice of Alphabetical Author Ordering? Theory and Experimental Evidence**<br>
