@@ -71,6 +71,12 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
   </div>
 </details>
 
+<br>
+<em style="font-size: 0.9em; color: #555;">Presentations (selection): [Conference Name 1]*, [Conference Name 2], [Conference Name 3], [Conference Name 4].</em>
+
+<br><br>
+<span style="font-size: 0.85em; color: #777;">* denotes presentation by coauthor</span>
+
 ---
 
 ## Work in Progress
