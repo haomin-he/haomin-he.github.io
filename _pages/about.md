@@ -31,7 +31,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 ## Working Papers
 
 **Belief Bias, Source Preference, and Preference for Robo-Advisor**<br>
-with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper1.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
+with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener noreferrer">Paul H. Y. Cheung</a> and <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> 
 *Outstanding Paper Award of the 7th China Behavioral and Experimental Economics Forum*
 
 <details>
@@ -42,7 +42,7 @@ with <a href="https://www.paulcheung.net/" target="_blank" rel="noopener norefer
 </details>
 
 **Illusion on Causality: An Experimental Study**<br>
-with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> · <a href="../assets/paper2.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
+with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a>
 *Reject & Resubmit, Journal of Economic Behavior and Organization*
 
 <details>
@@ -53,7 +53,7 @@ with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">Ki
 </details>
 
 **Pricing for Product Awareness in Social Network: An Experimental Study**<br>
-with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a> · <a href="../assets/paper3.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a> and <a href="https://yujingxu.weebly.com/" target="_blank" rel="noopener noreferrer">Yujing Xu</a> 
 
 <details>
   <summary>Abstract</summary>
