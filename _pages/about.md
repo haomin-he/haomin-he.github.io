@@ -1,14 +1,12 @@
 ---
 permalink: 
-title: ""
-excerpt: ""
+title: "Haomin He"
+excerpt: "Haomin He"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## About
 
 I am a first-year Ph.D. student in Economics and Strategy at the <a href="https://rady.ucsd.edu/" target="_blank" rel="noopener noreferrer">Rady School of Management</a>, UC San Diego.
 
