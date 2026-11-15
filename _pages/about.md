@@ -18,9 +18,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 ---
 
----
-
-<h2 style="color: #1a5e9a; margin-bottom: 20px;">Working Papers</h2>
+<h2 style="color:; margin-bottom: 20px;">Working Papers</h2>
 
 <div style="margin-bottom: 25px;">
   <h3 style="margin-bottom: 5px; font-size: 1.2em;">
