@@ -74,7 +74,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 
 **Illusion on Causality: An Experimental Study**<br>
 <span style="font-size: 0.9em;">with <a href="https://likklab.com/" target="_blank" rel="noopener noreferrer">King King Li</a></span><br>
-<em style="font-size: 0.9em;">Reject & Resubmit, Journal of Economic Behavior and Organization</em>
+<em style="font-size: 0.9em;">Revise & Resubmit, Journal of Economic Behavior and Organization</em>
 
 <details style="margin-bottom: 5px;">
   <summary>Abstract</summary>
