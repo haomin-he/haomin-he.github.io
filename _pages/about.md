@@ -105,7 +105,7 @@ Please find my CV <a href="../assets/CV_Haomin_202611.pdf" target="_blank" rel="
 <span style="font-size: 0.9em;">with Yoonjeong Park and <a href="https://sites.google.com/site/martaserragarcia/" target="_blank" rel="noopener noreferrer">Marta Serra-Garcia</a></span>
 <br>
 
-**Learning from Peers and AI**<br>
+**Is the AI Penalty a Mistake? Concealment, Disclosure, and Inference in Advice**<br>
 <span style="font-size: 0.9em;">with <a href="https://sarthakjoshi.net/" target="_blank" rel="noopener noreferrer">Sarthak Joshi</a> and <a href="https://www.manshukhanna.com/" target="_blank" rel="noopener noreferrer">Manshu Khanna</a></span>
 <br>
 
